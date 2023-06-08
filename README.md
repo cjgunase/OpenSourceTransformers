@@ -2,7 +2,6 @@
 This is github repo to store all notes and documents related to this program
 Of course! Here it is:
 
-```markdown
 # 3-Year Curriculum for Learning Transformer Networks
 
 ## Year 1: Introduction to Machine Learning and Basic Mathematics
@@ -70,6 +69,6 @@ A deep dive into Transformer models which are primarily used in tasks related to
 ---
 
 **Note**: Although I've divided this into a 3-year plan, the pace can be adjusted according to your comfort and understanding. It's important to practice and implement as you learn these topics to reinforce your understanding. You should work on mini-projects and participate in competitions on platforms like [Kaggle](https://www.kaggle.com/) to get hands-on.
-```
+
 
 You can copy this markdown directly into a README.md file in a new GitHub repository. The links and formatting should work correctly when viewed on GitHub.
